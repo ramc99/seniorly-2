@@ -1,0 +1,4 @@
+city_url,page_num,name,address,city,state_abbr,zip,services,price,rating,verified,best_of,url
+https://www.seniorly.com/assisted-living/virginia/arlington,1,Chevy Chase House,5420 Connecticut Avenue Northwest,Washington,DC,20015,"Assisted Living , Independent Living","$5,000/mo",9.8,No,No,https://www.seniorly.com/assisted-living/district-of-columbia/washington/chevy-chase-house
+https://www.seniorly.com/assisted-living/virginia/arlington,1,Sunrise Of Bethesda,4925 Battery Lane,Bethesda,MD,20814,"Assisted Living , Memory Care","$7,083/mo",9.9,Yes,No,https://www.seniorly.com/assisted-living/maryland/bethesda/sunrise-of-bethesda-maryland
+https://www.seniorly.com/assisted-living/virginia/arlington,1,Sunrise At Fox Hill,8300 Burdette Road,Bethesda,MD,20817,"Assisted Living , Memory Care","$6,110/mo",9.9,Yes,No,https://www.seniorly.com/assisted-living/maryland/bethesda/sunrise-at-fox-hill

@@ -1,0 +1,5 @@
+city_url,page_num,name,address,city,state_abbr,zip,services,price,rating,verified,best_of,url
+https://www.seniorly.com/assisted-living/washington/seattle,1,The Bellettini,1115 108th Avenue Northeast,Bellevue,WA,98004,"Assisted Living , Independent Living","$6,710/mo",9.8,Yes,Yes,https://www.seniorly.com/assisted-living/washington/bellevue/the-bellettini
+https://www.seniorly.com/assisted-living/washington/seattle,1,Sunrise Of Redmond,15241 Northeast 20th Street,Bellevue,WA,98007,"Assisted Living , Memory Care","$6,445/mo",9.8,Yes,No,https://www.seniorly.com/assisted-living/washington/bellevue/sunrise-of-redmond
+https://www.seniorly.com/assisted-living/washington/seattle,1,Aljoya Mercer Island,2430 76th Avenue SE,Mercer Island,WA,98040,Continuing Care Retirement Community(CCRC),"$5,365/mo",9.8,Yes,No,https://www.seniorly.com/assisted-living/washington/mercer-island/aljoya-mercer-island
+https://www.seniorly.com/assisted-living/washington/seattle,1,Aegis Living Lodge,12629 116th Avenue NE,Kirkland,WA,98034,"Assisted Living , Memory Care","$3,600/mo",9.7,Yes,No,https://www.seniorly.com/assisted-living/washington/kirkland/aegis-living-lodge
